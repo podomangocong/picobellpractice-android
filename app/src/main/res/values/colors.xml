@@ -5,6 +5,8 @@
     <color name="picobell_pink02">#11e062ff</color>
     <color name="picobell_gradient_purple">#6b19ff</color>
     <color name="picobell_gradient_pink">#fd62ff</color>
+    <color name="picobell_gradient_brown">#7f6f60</color>
+    <color name="picobell_gradient_orange">#ea6d33</color>
     <color name="picobell_black_01">#000000</color>
     <color name="picobell_black_02">#111111</color>
     <color name="picobell_grey_01">#5f5f69</color>

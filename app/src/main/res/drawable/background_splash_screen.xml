@@ -4,14 +4,14 @@
         <shape android:shape="rectangle">
             <gradient
                 android:angle="315"
-                android:endColor="@color/picobell_gradient_purple"
-                android:startColor="@color/picobell_gradient_pink"
+                android:endColor="@color/picobell_white"
+                android:startColor="@color/picobell_white"
                 android:type="linear" />
         </shape>
     </item>
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/img_logo" />
+            android:src="@drawable/bpicobell"/>
     </item>
 </layer-list>

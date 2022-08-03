@@ -3,6 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.picobell.app">
 
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- 인터넷 퍼미션 (권한) -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- 일반권한 -->
+
+
     <application
         android:allowBackup="false"
         android:dataExtractionRules="@xml/data_extraction_rules"

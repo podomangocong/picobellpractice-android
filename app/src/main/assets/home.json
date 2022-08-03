@@ -1,0 +1,41 @@
+
+{
+  "title": {
+    "text": "jimin님, 이런 상품\n어때요?",
+    "icon_url": "https://user-images.githubusercontent.com/109748246/181925726-bae7289c-a650-4b0a-82db-1af5ab84bac6.png"
+  },
+  "top_banners": [
+    {
+      "background_image_url": "https://user-images.githubusercontent.com/109748246/181925903-f3a68c24-65ea-4f87-9ef8-90e182417a3b.png",
+      "badge": {
+        "label": "신상품",
+        "background_color": "#52514d"
+      },
+      "label": "22FW\nNEW",
+      "product_detail": {
+        "brand_name": "Levis Vintage Clothing",
+        "label": "3rd Denim Jacket",
+        "discount_rate": 10,
+        "price": 150000,
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/181925909-c578de17-2b16-46df-95cf-f2f63ed07597.png",
+        "product_id": "lvc-jacket-1"
+      }
+    },
+    {
+      "background_image_url": "https://user-images.githubusercontent.com/109748246/181925920-ab89a954-4937-4e83-abff-3e80c83413d7.png",
+      "badge": {
+        "label": "기획전",
+        "background_color": "#967a6d"
+      },
+      "label": "SEASON OFF\nUP TO 30",
+      "product_detail": {
+        "brand_name": "The NorthFace",
+        "label": "Paisley Small Bag",
+        "discount_rate": 30,
+        "price": 100000,
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/181925923-03b4752b-6121-4395-ae5d-7b1f8885ec8f.png",
+        "prduct_id": "northface-bag-1"
+      }
+    }
+  ]
+}
