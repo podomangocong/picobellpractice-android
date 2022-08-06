@@ -1,7 +1,7 @@
 
 {
   "title": {
-    "text": "jimin님, 이런 상품\n어때요?",
+    "text": "고객님, 이런 상품\n어때요?",
     "icon_url": "https://user-images.githubusercontent.com/109748246/181925726-bae7289c-a650-4b0a-82db-1af5ab84bac6.png"
   },
   "top_banners": [
@@ -13,12 +13,12 @@
       },
       "label": "22FW\nNEW",
       "product_detail": {
-        "brand_name": "Levis Vintage Clothing",
-        "label": "3rd Denim Jacket",
+        "brand_name": "COEN",
+        "label": "WindBreaker",
         "discount_rate": 10,
         "price": 150000,
         "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/181925909-c578de17-2b16-46df-95cf-f2f63ed07597.png",
-        "product_id": "lvc-jacket-1"
+        "product_id": "coen-windbreaker-1"
       }
     },
     {
@@ -29,12 +29,12 @@
       },
       "label": "SEASON OFF\nUP TO 30",
       "product_detail": {
-        "brand_name": "The NorthFace",
-        "label": "Paisley Small Bag",
+        "brand_name": "United Arrows",
+        "label": "Oversize Blazer",
         "discount_rate": 30,
         "price": 100000,
         "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/181925923-03b4752b-6121-4395-ae5d-7b1f8885ec8f.png",
-        "prduct_id": "northface-bag-1"
+        "prduct_id": "unitedarrows-blazer-1"
       }
     }
   ]
