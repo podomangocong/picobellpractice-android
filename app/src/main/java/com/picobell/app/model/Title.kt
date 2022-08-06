@@ -1,4 +1,4 @@
-package com.picobell.app
+package com.picobell.app.model
 
 import com.google.gson.annotations.SerializedName
 
