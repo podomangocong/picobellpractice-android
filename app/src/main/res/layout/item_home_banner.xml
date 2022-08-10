@@ -93,7 +93,7 @@
             app:layout_constraintEnd_toEndOf="@id/bg_banner_product_detail"
             app:layout_constraintStart_toEndOf="@id/iv_banner_detail_thumbnail"
             app:layout_constraintTop_toTopOf="@id/bg_banner_product_detail"
-            tools:text="Levis Vintage Clothing" />
+            tools:text="COEN" />
 
         <TextView
             android:id="@+id/tv_banner_detail_product_label"
@@ -104,7 +104,7 @@
             app:layout_constraintEnd_toEndOf="@id/tv_banner_detail_brand_label"
             app:layout_constraintStart_toStartOf="@id/tv_banner_detail_brand_label"
             app:layout_constraintTop_toBottomOf="@id/tv_banner_detail_brand_label"
-            tools:text="3rd Denim Jacket" />
+            tools:text="WindBreaker" />
 
         <TextView
             android:id="@+id/tv_banner_detail_product_discount_rate"
