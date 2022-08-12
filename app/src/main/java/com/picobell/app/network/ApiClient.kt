@@ -14,7 +14,7 @@ interface ApiClient {
 
     companion object {
 
-        private const val baseUrl = ""
+        private const val baseUrl = "https://picobell-af081-default-rtdb.asia-southeast1.firebasedatabase.app"
 
         fun create(): ApiClient {
 

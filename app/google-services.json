@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71388938486",
+    "project_id": "picobell-af081",
+    "storage_bucket": "picobell-af081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71388938486:android:66b9f2694242d1caf42cd7",
+        "android_client_info": {
+          "package_name": "com.picobell.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71388938486-6pu2jkdp0q9a5pra8go6s313ldoahngc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhc196tbeojt_cT8e4L6JhIsidvu-EPvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71388938486-6pu2jkdp0q9a5pra8go6s313ldoahngc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

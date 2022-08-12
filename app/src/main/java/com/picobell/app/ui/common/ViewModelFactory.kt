@@ -20,7 +20,7 @@ class ViewModelFactory(private val context: Context): ViewModelProvider.Factory 
                  HomeViewModel(repository) as T
             }
             modelClass.isAssignableFrom(CategoryViewModel::class.java) -> {
-                val repository = CategoryRepository(CategoryRemoteDataSource(ApiClient.create()))
+                 val repository = CategoryRepository(CategoryRemoteDataSource(ApiClient.create()))
                  CategoryViewModel(repository) as T
             }
             else -> {
