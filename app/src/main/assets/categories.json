@@ -1,49 +1,49 @@
 {
   "categories": [
     {
-      "category_id": "fashion-outer",
+      "category_id": "fashion_outer",
       "label": "OUTER",
       "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/183245328-ee1e9874-74d7-4e55-a5d5-45a8e3c0087f.png",
       "updated": true
     },
     {
-      "category_id": "fashion-top",
+      "category_id": "fashion_top",
       "label": "TOP",
       "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/183245329-a10db7a4-31b4-45d7-9d8c-958e6078247b.png",
       "updated": false
     },
     {
-      "category_id": "fashion-bottom",
+      "category_id": "fashion_bottom",
       "label": "BOTTOM",
       "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/183245332-34c6e758-f742-4df7-a722-87e85576e531.png",
       "updated": false
     },
     {
-      "category_id": "fashion-bag",
+      "category_id": "fashion_bag",
       "label": "BAG",
       "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/183245330-fae7246a-3421-477b-83e9-d0e4950ee152.png",
       "updated": false
     },
     {
-      "category_id": "fashion-shoes",
+      "category_id": "fashion_shoes",
       "label": "SHOES",
       "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/183245322-0f772d80-1557-4e0c-b736-999716970e52.png",
       "updated": false
     },
     {
-      "category_id": "fashion-cap",
+      "category_id": "fashion_cap",
       "label": "CAP",
       "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/183245327-15bf97c4-f3d5-4539-a1b4-851f4f0c55ae.png",
       "updated": true
     },
     {
-      "category_id": "fashion-acc",
+      "category_id": "fashion_acc",
       "label": "ACC",
       "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/183245315-678d40da-cdc8-4973-a7ce-3a560149f6dc.png",
       "updated": false
     },
     {
-      "category_id": "fashion-eyewear",
+      "category_id": "fashion_eyewear",
       "label": "EYE WEAR",
       "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/183245325-3a4cf35f-ecd6-4225-a76e-00d5410232eb.png",
       "updated": false

@@ -5,6 +5,9 @@
 
     <data>
         <variable
+            name="viewModel"
+            type="com.picobell.app.ui.category.CategoryViewModel"/>
+        <variable
             name="category"
             type="com.picobell.app.model.Category"/>
     </data>
@@ -15,7 +18,8 @@
         android:layout_marginEnd="4dp"
         android:layout_marginBottom="16dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:onClick="@{() -> viewModel.openCategoryDetail(category)}">
 
         <com.google.android.material.imageview.ShapeableImageView
             android:id="@+id/iv_category_thumbnail"

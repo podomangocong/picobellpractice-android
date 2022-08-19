@@ -18,7 +18,7 @@
         "discount_rate": 10,
         "price": 150000,
         "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/181925909-c578de17-2b16-46df-95cf-f2f63ed07597.png",
-        "product_id": "coen-windbreaker-1"
+        "product_id": "coen-windbreaker_1"
       }
     },
     {
@@ -34,7 +34,7 @@
         "discount_rate": 30,
         "price": 100000,
         "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/181925923-03b4752b-6121-4395-ae5d-7b1f8885ec8f.png",
-        "prduct_id": "unitedarrows-blazer-1"
+        "prduct_id": "unitedarrows_blazer_1"
       }
     }
   ]

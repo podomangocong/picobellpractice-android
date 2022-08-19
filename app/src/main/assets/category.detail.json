@@ -1,0 +1,70 @@
+{
+  "fashion-outer": {
+    "top_selling": {
+      "title": {
+        "text": "인기상품"
+      },
+      "categories": [
+        {
+        "category_id": "fashion_jacket",
+          "label": "자켓",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185615769-7e6b5566-caa7-409c-a68f-048d72ea77b4.png",
+          "updated": true
+        },
+        {
+          "category_id": "fashion_coat",
+          "label": "코트",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185615862-eed5f6fc-59a8-426c-a4b7-22b2eb486782.png",
+          "updated": false
+        },
+        {
+          "category_id": "fashion_cardigan",
+          "label": "가디건",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185615915-b5079cbd-d96f-4685-bef6-db36e6d14fe5.png",
+          "updated": false
+        },
+        {
+          "category_id": "fashion_parka",
+          "label": "다운파카",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185615936-2bcf30aa-d727-42a8-aa1d-07f8e4727694.png",
+          "updated": false
+        }
+      ]
+    },
+    "promtions": {
+      "title": {
+        "text": "추천상품"
+      },
+      "items": [
+        {
+          "label": "[19차 리오더] 페이크 레더 숏 테일러 자켓 블랙",
+          "discount_rate": 15,
+          "price": 90000,
+          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185616577-48961b6b-b2e9-45ca-9d7e-a57b47883fd7.png",
+          "product_id": "jacket_1"
+        },
+        {
+          "label": "캐시미어 100% 터틀넥 스웨터",
+          "discount_rate": 15,
+          "price": 70000,
+          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185616614-f829c69a-665e-4b41-9cea-1d87a8ab910f.png",
+          "product_id": "jacket_2"
+        },
+        {
+          "label": "반팔 스트라이프 스웨터",
+          "discount_rate": 20,
+          "price": 100000,
+          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185616638-e95af3bc-46bc-4ba2-a1df-03bc75fcf61d.png",
+          "product_id": "sweater_1"
+        },
+        {
+          "label": "화이트 스포츠 점퍼",
+          "discount_rate": 10,
+          "price": 150000,
+          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185616661-d5b7d88c-0b6e-484a-b77a-98c699de805f.png",
+          "product_id": "parka_1"
+        }
+      ]
+    }
+  }
+}
