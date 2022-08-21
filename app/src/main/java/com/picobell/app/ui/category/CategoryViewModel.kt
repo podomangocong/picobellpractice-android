@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.picobell.app.model.Category
-import com.picobell.app.repository.CategoryRepository
+import com.picobell.app.repository.category.CategoryRepository
 import com.picobell.app.ui.common.Event
 import kotlinx.coroutines.launch
 

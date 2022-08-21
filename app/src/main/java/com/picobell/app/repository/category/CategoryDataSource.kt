@@ -1,4 +1,4 @@
-package com.picobell.app.repository
+package com.picobell.app.repository.category
 
 import com.picobell.app.model.Category
 

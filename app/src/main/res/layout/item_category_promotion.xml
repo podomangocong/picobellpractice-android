@@ -82,7 +82,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/tv_promotion_original_price"
-                tools:text="COEN windBreaker Black" />
+                tools:text="COEN WindBreaker Black" />
 
 
         </androidx.constraintlayout.widget.ConstraintLayout>

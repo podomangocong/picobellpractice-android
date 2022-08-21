@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.picobell.app.Banner
 import com.picobell.app.model.Title
-import com.picobell.app.repository.HomeRepository
+import com.picobell.app.repository.home.HomeRepository
 
 class HomeViewModel(private val homeRepository: HomeRepository) : ViewModel() {
 

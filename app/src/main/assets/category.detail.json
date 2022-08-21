@@ -1,68 +1,68 @@
 {
-  "fashion-outer": {
+  "fashion_outer": {
     "top_selling": {
       "title": {
-        "text": "인기상품"
+        "text": "BEST"
       },
       "categories": [
         {
         "category_id": "fashion_jacket",
           "label": "자켓",
-          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185615769-7e6b5566-caa7-409c-a68f-048d72ea77b4.png",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185751409-029f8300-e247-4721-950f-a2f3b98e95b2.png",
           "updated": true
         },
         {
           "category_id": "fashion_coat",
           "label": "코트",
-          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185615862-eed5f6fc-59a8-426c-a4b7-22b2eb486782.png",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185751454-b9109f94-5ab2-401e-9a91-d85fa779bb95.png",
           "updated": false
         },
         {
           "category_id": "fashion_cardigan",
           "label": "가디건",
-          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185615915-b5079cbd-d96f-4685-bef6-db36e6d14fe5.png",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185751468-25b06584-33e1-4dd9-a2ac-0cf0cbe3f4fa.png",
           "updated": false
         },
         {
           "category_id": "fashion_parka",
           "label": "다운파카",
-          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185615936-2bcf30aa-d727-42a8-aa1d-07f8e4727694.png",
+          "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185751476-b9323bb4-db83-4bf0-a251-eb3d90c2806b.png",
           "updated": false
         }
       ]
     },
-    "promtions": {
+    "promotions": {
       "title": {
-        "text": "추천상품"
+        "text": "RECOMMEND"
       },
       "items": [
         {
-          "label": "[19차 리오더] 페이크 레더 숏 테일러 자켓 블랙",
-          "discount_rate": 15,
-          "price": 90000,
-          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185616577-48961b6b-b2e9-45ca-9d7e-a57b47883fd7.png",
+          "label": "COEN windBreaker Black",
+          "discount_rate": 10,
+          "price": 135000,
+          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185777108-7c8c97d4-94da-435d-98a8-62898516917c.png",
           "product_id": "jacket_1"
         },
         {
-          "label": "캐시미어 100% 터틀넥 스웨터",
-          "discount_rate": 15,
+          "label": "United Arrows Oversize Blazer Brown",
+          "discount_rate": 30,
           "price": 70000,
-          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185616614-f829c69a-665e-4b41-9cea-1d87a8ab910f.png",
+          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185777118-353c1407-854d-46c3-9005-cbee39130370.png",
           "product_id": "jacket_2"
         },
         {
-          "label": "반팔 스트라이프 스웨터",
-          "discount_rate": 20,
-          "price": 100000,
-          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185616638-e95af3bc-46bc-4ba2-a1df-03bc75fcf61d.png",
-          "product_id": "sweater_1"
+          "label": "Steven Alan Cardigan Black",
+          "discount_rate": 30,
+          "price": 150000,
+          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185777129-e266f98f-c1d2-4802-b2de-7bc1f1af8425.png",
+          "product_id": "cardigan_1"
         },
         {
-          "label": "화이트 스포츠 점퍼",
+          "label": "Nano Universe Work Jacket Navy",
           "discount_rate": 10,
           "price": 150000,
-          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185616661-d5b7d88c-0b6e-484a-b77a-98c699de805f.png",
-          "product_id": "parka_1"
+          "representative_image_url": "https://user-images.githubusercontent.com/109748246/185777133-1f55fa73-0d49-4474-8a6c-d75edb68c396.png",
+          "product_id": "jacket_3"
         }
       ]
     }

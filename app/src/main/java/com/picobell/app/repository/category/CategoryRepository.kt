@@ -1,8 +1,7 @@
-package com.picobell.app.repository
+package com.picobell.app.repository.category
 
 import com.picobell.app.model.Category
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.withContext
+import com.picobell.app.repository.category.CategoryRemoteDataSource
 
 class CategoryRepository(
     private val remoteDataSource: CategoryRemoteDataSource

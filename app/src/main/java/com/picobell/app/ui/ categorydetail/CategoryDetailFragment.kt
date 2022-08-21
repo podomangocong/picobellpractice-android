@@ -5,14 +5,19 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import androidx.fragment.app.viewModels
+import androidx.lifecycle.ViewModel
+import androidx.lifecycle.viewmodel.viewModelFactory
 import androidx.recyclerview.widget.ConcatAdapter
 import com.picobell.app.common.KEY_CATEGORY_ID
 import com.picobell.app.common.KEY_CATEGORY_LABEL
 import com.picobell.app.databinding.FragmentCategoryDetailBinding
+import com.picobell.app.ui.common.ViewModelFactory
 
 class CategoryDetailFragment : Fragment() {
 
     private lateinit var binding: FragmentCategoryDetailBinding
+    private val viewModel: CategoryDetailViewModel by viewModels { ViewModelFactory(requireContext())} // ViewModel에 저장한 데이터를 Fragment에서 사용가능.
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -47,6 +52,10 @@ class CategoryDetailFragment : Fragment() {
         val titleAdapter = CategorySectionTitleAdapter()
         val promotionAdapter = CategoryPromotionAdapter()
         binding.rvCategoryDetail.adapter = ConcatAdapter(titleAdapter, promotionAdapter) // rvCategoryDetail(fragment_category_detail레이아웃)에 두 개의 Adapter를 할당.
+        viewModel.promotions.observe(viewLifecycleOwner) { promotions ->
+            titleAdapter.submitList(listOf(promotions.title)) // 데이터 List타입으로 전달해야하기 listOf의 인자로 데이터를 추가.
+            promotionAdapter.submitList(promotions.items)
+        }
     }
 }
 

@@ -22,6 +22,22 @@
       }
     },
     {
+      "background_image_url": "https://user-images.githubusercontent.com/109748246/185795970-269811b2-f402-4dd1-adcb-a22079517187.png",
+      "badge": {
+        "label": "신상품",
+        "background_color": "#52514d"
+      },
+      "label": "22FW\nNEW",
+      "product_detail": {
+        "brand_name": "Nano Universe",
+        "label": "Work Jacket",
+        "discount_rate": 10,
+        "price": 150000,
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/109748246/185796037-ebb2362f-feaa-42f2-9a4a-e20503d349e7.png",
+        "product_id": "nano-workjacket_1"
+      }
+    },
+    {
       "background_image_url": "https://user-images.githubusercontent.com/109748246/181925920-ab89a954-4937-4e83-abff-3e80c83413d7.png",
       "badge": {
         "label": "기획전",

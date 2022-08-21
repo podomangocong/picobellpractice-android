@@ -1,4 +1,4 @@
-package com.picobell.app.repository
+package com.picobell.app.repository.home
 
 import com.google.gson.Gson
 import com.picobell.app.AssetLoader

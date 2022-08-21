@@ -1,4 +1,4 @@
-package com.picobell.app.repository
+package com.picobell.app.repository.home
 
 import com.picobell.app.model.HomeData
 
